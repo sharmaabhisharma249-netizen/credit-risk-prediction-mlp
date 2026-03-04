@@ -1,4 +1,9 @@
+   #Name : Abhinav Gautam
+   #Roll No. 2501994040
+   #Course : MCA AIML
+   
 # Credit Risk Prediction using MLP Neural Network
+
 
 This project implements a Multi-Layer Perceptron (MLP) model to predict credit risk using financial dataset.
 
